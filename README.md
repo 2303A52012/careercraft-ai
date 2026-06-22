@@ -11,8 +11,8 @@ This project is split across two repositories for independent deployment and sca
 
 | Component | Description | Repo |
 |---|---|---|
-| 🎨 **Frontend** | React-based UI for resume upload, job input, and AI-generated content display | [careercraft-ai-frontend](https://github.com/YOUR_USERNAME/careercraft-ai-frontend) |
-| ⚙️ **Backend** | FastAPI service handling resume parsing, prompt orchestration, and Groq API integration | [careercraft-ai-backend](https://github.com/YOUR_USERNAME/careercraft-ai-backend) |
+| 🎨 **Frontend** | React-based UI for resume upload, job input, and AI-generated content display | [careercraft-ai-frontend](https://github.com/2303A52012/careercraft-ai-frontend) |
+| ⚙️ **Backend** | FastAPI service handling resume parsing, prompt orchestration, and Groq API integration | [careercraft-ai-backend](https://github.com/2303A52012/careercraft-ai-backend) |
 
 ---
 
